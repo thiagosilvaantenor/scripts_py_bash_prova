@@ -25,10 +25,6 @@
 5 - Fazer um programa em C++ q chame um processo (filho) mas rode ele com NOHUP
 
 ## Status do projeto
-
-🚧Em construção:
-- Exercício 5
-  
 ✅ Finalizado:
-- Exercicios 1 ao 4 
+- Exercicios 1 ao 5
 
